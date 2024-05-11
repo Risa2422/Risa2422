@@ -1,7 +1,7 @@
-# Hi, I'm Risa!  
+# Hi👋, I'm Risa!  
 ### Based on Canada and passionate about coding 💻
 
-🇯🇵 Originally from Japan  
+🇯🇵 Originally from Japan  cs
 💼 3 years experience using **C#** and **C++**  
 📚 Currently learning HTML, CSS, Javascript
 
